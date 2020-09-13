@@ -1,0 +1,33 @@
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+.main{
+  margin-left: 100px;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+}
+.set-icon{
+  background-color:#9179F2;
+  border: transparent;
+ color: whitesmoke;
+  margin:20px;
+  padding-top: 10px;
+  cursor: pointer;
+  width: 130px;
+  height:130px;
+  border-radius: 5px;
+}
+p{
+  text-align: center;
+  margin-top: 20px;
+  color: whitesmoke;
+}
+.ic{
+  padding-left: 28px;
+}
+
+a{
+  text-decoration: none;
+}

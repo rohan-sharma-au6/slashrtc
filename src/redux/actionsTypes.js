@@ -1,0 +1,1 @@
+export const CREATE_DIALOUGES = "CREATE_DIALOUGES"
